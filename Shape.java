@@ -1,5 +1,5 @@
 public abstract class Shape
 {
-	public String Name;
+	public String ShapeName;
 	public Color Color;
 }
