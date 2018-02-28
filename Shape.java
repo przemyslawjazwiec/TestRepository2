@@ -4,5 +4,5 @@ public abstract class Shape
 	public Color Color;
 	public Vector[] Vertex;
 	public Color ShapeColor;
-	public int Priority;
+	public double Priority;
 }
